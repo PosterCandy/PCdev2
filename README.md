@@ -1,4 +1,4 @@
-Development Repository
+PosterCandy Repository
 ==========
 
-Development/Master repo for PosterCandy v2
+Master repo for PosterCandy v2
