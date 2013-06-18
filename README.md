@@ -1,4 +1,4 @@
-Production
+Development Repository
 ==========
 
-Production/Master repo for Poster Candy
+Development/Master repo for Poster Candy
